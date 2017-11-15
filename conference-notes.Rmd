@@ -1,0 +1,1260 @@
+---
+title: "WQTC 2017 Conference Notes"
+author: Tyler Bradley
+date: "2017-11-13 to 2017-11-15"
+output: html_notebook
+---
+
+# Day 1 - Monday, 2017-11-13
+
+## Keynote Address: Embracing the Next Drinking Water Revolutions
+*Speaker: David Sedlak*
+
+The fourth water revolution is occuring. 
+
+The first was the roman's when they built the aqueducts. This led to dams and further technologies built on top of it to provide water to people who could not get it beofre. 
+
+The second revolution dealt with water treatment. This was started due to an outbreak in typhoid fever, and as a result the sand filter was implemented to remove contaminants and this led to the typhoid fever no longer being an issue. This treatment helped prevent typhoid fever but for every one person saved from typhoid fever, 2-3 were saved from other unepected things. water treatment is estimated to have extended the average human life by ~15 years. 
+
+The third revolution was the implementations of the clean water act and the safe drinking water act which greatly increased the quality of rivers, lakes, and other water ways. It also greatly increased the amount of federal money that was invested into US waterways. This resulted in wastewater streams to be able to be reimplemented into other drinking water sources
+
+The fourth and current revolution has to do with water reuse. Water recharge of basins are used as a secondary step after waste water treatment prior to drinking water treatment plant to add an extra barrier in treatment to remove microbes and other contaminants so that the water can be reused. Surface water augmentation is also used (). Another approach is to use advanced treatment/recharge. This approach uses advanced water treatment techniques to provide effective water reuse.
+
+The **gold standard** is to go from waste water effluent --> reverse osmosis --> UV/H~2~O~2~ --> drinking water supply. 
+
+A new approach is to use direct water reuse where the waste water effluent is piped directly into a water treatment plant to be sent back out into the distribution system. In order to prevent any contamination due to this direct connection between waste water and drinking water treatments, additional treatment steps and barriers are being added to the system to ensure that no contamination is occuring. 
+
+Water 3.0: 
+
+    - biological wastewater treatment
+    - filtration
+    - disinfection
+
+Water 4.0:
+
+    - biological wastewater treatment
+    - disinfection - engineered natural barriers
+    - ozonation
+    
+        - activated carbon
+        - mambranes (UF/RO)
+        - advanced oxidation processess
+        - online monitoring
+        - source water control/protection
+
+
+There are people who argue that the water 4.0 approach is overkill and that that method is making it seem that systems that do not use that appraoch are not doing enough. However, in the case of public health, isn't it better to be safe than sorry? This approach may reduce the amount of the drinking water issues/controversies. It may be time to stop thinking that the safe drinking water act is doing enough to protect the public. It may be time to push the boundaries of what water treatment is possible. 
+
+Book "Water 4.0" is available about this topic. 
+
+## STS01 - Optimizing Corrosion Control across Multiple Sources: Portlan Water Bureau's Experience
+*Monday Morning*
+
+### Portlands Recent Experiences with the Lead and Copper Rule
+*Yone Akagi (presenter), Kimberly Gupta, Scott Broadway*
+
+Portland had lead issues following the Flint crisis, with several articles in the news about lead issues. Portland also exceeded the action level (15 ppb) in their 2016 sampling round. 
+
+Portland's system serves approx. 970k people with 19 wholesale water districts and produces 101 MGD on average (80-160 MGD). 
+
+Sources of Lead in Portland:
+
+  - Portland never used LSL
+  - removed all known lead pigtails
+  - removed meters with leasd components serving high risk populations
+  - copper pipes with lead solder is the main concern for Portland (1970-85)
+  - home plumbing fixtures installed prior to 1985 can also contribute to lead in water
+  - Portland believes that lead paint is the leading cause of elevated blood lead levels
+
+
+Portlands Complaince with LCR:
+
+performed optimized treatment study in 1994 and received state permit in 1997. This permit is still in place. 
+
+Several programs to handle lead in drinking water. 
+
+  1. PWB;s LHRP: Treatment and monitoring
+    
+    - pH adjustment to 8.2
+    - monitoring at tap
+    - water quality montoring in the system
+    
+    PWB saw a significant drop in lead levels after implementing treatment. However, they exceeded the action level several times since then, including 2013, 2016, and 2017.
+    
+  2. Lead in the Water Education and Testing
+     
+     - regulatory lead brochure sent annually, annual message with bill
+     - free testing offered to public
+     - requests from public significantly increased in 2016 with flint from the average of ~3-4K all the way to 14.5K
+     - requested samples have 90^th^ percentiles all less than 15, however homes built between 1970 and 1985 have the highest 90^th^ percentile (14.1 ppb)
+     - samples that have a level higher than 15 ppb receive free follow up sample. Most of these homes see a reduction in lead upon follow up samples 
+     - In 2016 and 2017, PWB tried to target where lead was coming from by sending three small bottles to homes with high results to sample at different points to see lead levels in faucet and in pipes. 
+     
+  3. Education and Community Outreach
+    
+    - workshops
+    - blood lead lvel tests
+    - hotlines
+    - community outreach 
+    - paint stabilization in schools
+    - soil lead level testing
+    - playgrounf equipment replacement
+    - home investigations
+    
+PWB's work with schools:
+
+  - Potland public schools samples all water fixtures in schools. PWB analyzed samples ~1800 samples from PPS. This was a result of a limited sampling that showed high results and caused public panic. This large sampling lead to 116 additional follow up samples
+  - PWB also works with chlidcare centers/daycares
+  - daycares were offered free lead in water sampling as well as outreach and education about lead in drinking water
+  
+PWB work with city facilities:
+
+  - Prioritized sites:
+     
+     1. infants, chlidren, pregnant women - primary target population
+     2. primarily serve the public
+     3. built or plumbed prior to 1985
+     4. other
+     
+  - Most of the lead was seen in the drinking water as early as 1 hour of stagnation time. Additional stagnation time showed an increase in lead but after 1 hour it was already above action level.
+  
+Portland public school samples had a significantly higher 90^th^ percentile level than the rest of PWB samples (64.6 ppb). Its median value was also veyr high (7.94 ppb). Childcare and daycare facilities also showed higher lead levels with a 90^th^ percrntile value just below the action level (14.3 ppb).
+
+Water Quality Corrosion Study was implemented to try to identify ways to enhance understanding of lead release in DS. Project finished in early 2017 and found that lead observartions were predominantly in the dissolved form (though up to 50% of particulate lead was observced at some sites), all three corrosion mechanisms contribute to lead release in PWB's system, and the primary source of lead in drinking water for PWB is premise plumbing. 
+
+This study also fourn the there were no geographical patterns to lead release of water quality parameters, unidirectional flushing needed to be continued, and a new pilot sclae study was needed.
+
+Corrosion pilot study:
+
+  - desktop evalution determined that there were some limitations to the 1994 OCCT study
+    
+    1. surface water only
+    2. low accuracy
+    
+  - currently evaluating two types of treatments (ph/alkalinty adjustment) and orthophosphate
+  - this pipe loop is testing these treatment options effects on several different pipe materials (copper, iron)
+  
+On a different note, cryptosproidium has become an issue in portland, and it has been determined that PWB needs to treat for crypto and that may effect the construction of a new corrosion control treatment plant. However, even with this development, they are still working on building this new facilites. 
+
+
+
+### Bench-testing of CCT for Surface Water/Groundwater Blends
+*Damon Roth (presenter), David Cornwell, Jacob Wagner*
+
+Corrosion Control Theory:
+
+As pH increases as pH and alkalinity increase, lead solubility decreases. This is due to the type of lead scale that is formed in the pipes. Two examples are Cerrusite and Hydrocerrusite, and they are not all equal in their effectiveness in reducing lead solubility. 
+
+PWB Case Study:
+
+  - surface water: pH ~ 8.0, alkalinity ~7 mg/L CaCO~3~
+  - groundwater: pH ~ 8.0, alkalinity ~90 mg/L CaCO~3~
+  - system can be supplied with 100% surface water or groundwater or a mix of both
+  
+It was found from modeling that when you switch from 100% surface water to 100% ground water, the lead release does not chanhe significantly but the scale formed does change (cerrusite for GW and hyudrocerrusite for SW) and with a mix, a mix of scale formed is found. However, changing the levels of GW/SW causes the system to be out of equilibrium and that is when the system is at risk. Once the system reaches equilibrium with any of the sources than lead release is minimized, but when changing the ratio of sources, lead levels increase.
+
+Study Goals:
+
+   - compare relative performace of different treatment processes and testing how these methods worked on both different pipe materials and with different water sources. 
+
+Test 1 - pH/alkalinity testing
+
+  - phase 1 - looking at the effect on different pipe materials 
+  - phase 2 - looking at the efects of different blends of source water
+  
+  - results :
+    
+    - groundwater is much less corrosive than the surface water. This is significantly different for no mixing between sources. When the blending was done, ground water mixed with surface water drastically reduced the lead levels for the surface water coupons. For groundwater that was mixed with surface water, a little surface water did not increase lead release, however, adding a lot of surface water resulted in a significant increase in lead release. 
+    - copper with lead solder showed a lof of variability due to the nature of copper with lead solder installations. 
+    
+Test 2 - GW equilibriuted with orthophosphate
+
+   - orthophosphate added a lot of stability to the amount of lead release. When surface water was added, it still showed an increase in orthophosphate. It was not effective in reducing the lead solubility in copper with lead solder
+   
+Test 3 - SW euilibriated with orthophosphate 
+
+  - 
+  
+Test 4 - pH stability testing
+  
+  
+Comparing the results:
+
+  - for pure lead coupons, orthophosphate is the best method. For brass coupons, orthophosphate and pH adjustment showed similar results for reducing lead. For copper with lead solder, orthophosphate was less consistent and could be argued to not be as effectvie as pH adjustment. 
+  
+Additional Blenind Testing:
+  
+   - Coupins equilibrated with GW were explised to a blend of GW + SE at pH 9.3
+   - Coupons were also equilbriated with orthophosphate
+   
+Coupons that were reacted with SW with 0.7 as P PO~4~ and then was blended with GW with 0.0 as P, saw no negative impacts as a result of the groundwater. This is good for subsequent systems that use PWB water if they decide to use orthophosphate. 
+
+Condition with most potential for release is from transition from GW to SW. This can be reduced or eliminated by the use of CCT. 
+
+
+### OCCT: Evaluating Regulatory and Non-regulatory Factors
+*Melinda Friedman (presenter), Alexander Mofidi, Anna Vosa* 
+
+Overview of LCR and COrrosion Control Strategies:
+
+  - 4 groups who might need to reestablish OCCT:
+    
+     1. Systems serving less than 50k who exceed AL
+     2. systems newly serving > 50k
+     3. exsisting systems who serve > 50k and exceed AL
+     4. exsisting systems who serve > 50k and implement new treamtnent methods 
+     
+  - Process Developed for PWB:
+  
+     1. Historical Review
+       
+        - OCCT was design basis is lead (II) solubility
+        - Assumed uniform corrosion conditions
+        - inportance of ORP in formation of lead (IV) scales and stability of lead (II)
+        - resk of release during treatment and source changes
+        - understaning thof lead carbonate - hydrosie scales
+        - roles of microbial activity
+        - roles of DIC
+        
+     2. Bench-scale testing
+     3. Pilot testing
+     4. OCCT Selection
+     
+       - formation of Pb (IV) scale
+       - CaCO~3~ passivation
+       - carbonate passivation
+        
+          - can precipitate CaCO~3~ 
+          - DIC/ pH fluctuations  can damage scale formation
+          - multiple chemical feeds to hit pH
+          
+       - inhibitor addition (phosphate)
+       
+          - most effective from pH 7.2-7.8 and that may not be feasible for PWB 
+          
+Overview of LEad Solubility Theory for PWB:
+
+The big issue is the shifting of the scales formed due to changes in source water and water quality conditions. Greating lead redution by increasing pH/DIC of SW vs DW. 
+
+Limitations for relying solely on theory:
+
+   - there studies all deal with pure lead (not copper with lead solder)
+   - benchscale testing indicaties that orthophospahet and pH adjustment may be similar in ability to reduce lead in drinking water.
+   
+
+Qualitative assessment:
+
+   - what is relative impact/value of each approach
+   - PWB - specific interpretation
+   - what don't we know?
+   - provide initial qualitative ranks
+   
+   - these were ranked based on whether they were better or worse than the cirrect approach
+   - none of these potential changes to CCT have been implemented yet becasue filtration is being considered due to the crypto issue mentioned earlier. Filtration can greatly change the water chemistry which would effect the CCT
+   - Now the question is: **how best to operate until filtration is online?** 
+   
+      - *Don't want to do anything in the interim that they are not able to undo in the future*
+      
+   - In addtition to qualitative assessment, they will conduct a quantitative assessment
+   
+   
+Conclusions:
+
+   - Still many unkowns in PWB's system (**PWB's system is still in flux**)
+   - working on implementing an interim CCT plan 
+   
+
+## MON11 - Predicting DBP Formation
+*Monday Afternoon*
+
+### Disinfection Byproduct Formation Study in Costal Groundwater Supplies
+*Jolyn Leslie, Stephen Deem, Virpi Salo-Zieman (all presenting)*
+
+THere are 35 groundwater systems in Washington state that have exceeded the mcl for stage 2 DBP rule. Groundwater sees much more brominated species than in surface water supplies. Most groundwater systems see mostly TTHMs and not HAA5. Much more mcl exceeders for groundwater than surface water. 
+
+  - why low TOC with high TTHM?
+  - why concentrated in costal settings?
+  - regulatory sampling doesn't cover a lot of things
+    
+     - 3 year - now 9 year occurance
+     - TDS, Cond, Chloride - no seasonal data
+     - Taken after treatment
+     - TOC, DOC
+     - Bromide, ammonia
+     - Microbial
+  
+  - Do these parameters vary by season, pumping rate, sea water influence or somethng else?
+  - sites very close to one another change whether they exceed so what is the cause of this?
+  
+DBP Study formation:
+
+   - SRF Funding
+   - collect source wq data and system data
+   
+   - selection of systems:
+   
+       - 5 historically low dbp sources
+       - 4 sources chlorofomr only
+       - 12 sources with brominated dbps
+       - 3 systems with iron and manganese systems
+       
+   - storage:
+    
+      - 7 systems < 30 K gallons
+      - 3 systems 40k-60k
+      - 5 systems 100k -170k
+      
+   - water use and age:
+   
+      - i missed this
+  
+   - study parareters:
+   
+      - inorganics - raw water
+      
+          1. ammonia
+          2. chloride, bromide, and iodide
+          3. TDS
+          4. Cond
+       
+      - organics:
+       
+          -TOC and DOC
+          - YV254
+          - 3d fluorscenecs eexcitations
+        
+      - TTHM4, HAA5, HAA9
+      - microbial
+      - temperature
+      - pH
+    
+  - Bromine substitiution factor:
+     
+      ratio of brominated species to chlorinated species (ranges from 0 to 1)
+      
+
+Results:
+
+  - some sites that have very low regulatory sampling results (lraa) saw a very high level of TTHM formation potential
+  - regulated HAA values leave out 4 of the 6 brominated halo acetic acid species
+  - some of the sites had a very high formation potentail for those four unregulated species, which could cause a lot of problems in the future
+  - microbial activity:
+  
+     - suprisingly low numbers 
+     - HPC - mostly non-detects (< 2 cfu/ml) to 70 cfu/mL
+     - these could not be used to predict dbps
+     
+  - inorganics:
+     
+      - chloride - 16 - 258 mg/L
+      - bromide - <0.05 - 0.71 mg/L
+      - TDS 220-640 mg/L
+      - cond 390-1200
+      - ammonia - detecting in some sources. This led to some unintended formation of chloramine
+      - these were not found to have any effet on dbps
+      
+  - seasonal fluctations in parameters were seen which can cause an issue in monitoring if samples are not taken in different seasons
+  - DOC is terrestrial in origin
+  - DOC is terrestrial humic-like substance
+  - all samplkes showed clear excitation-emission maxima at 250-270/450-470
+  
+  
+Tools to predict TTHM-FP:
+
+   - TTHM vs DOC showed a linear relationship with a very high relationship (r^2^ = 0.7)
+   - HAA5 vs DOC showed a linear relationhip with a very high correlation (r^2^ = 0.79)
+   - bromide/bromine - with a lower doc, you tend to see a hgiher level of brominated species 
+  
+
+Summary:
+
+   - significant season variability some parameters - single regulatory sample?
+   - FP-tests do not corresplind to regulatory results
+   - water systems chlorinations practices inconsistent and may explain why some systems do not appear to form dbps under same raw water conditions
+   - ammonia/incidental chloramination in a few systems - though no positive correlation with DBPs
+   - DOC = TOC in groundwater
+   - Fe/Mn treatment systems do not remove DOC
+   - DOC is primarily humic substance from decayed vegetation
+   - DOC main driver in forming DBPs and present at high concentration in these groundwater sources
+    
+      - DOC > 1.2 mg/L - probable TTHM issue
+      - DOC > 2.1 mg/L - probable HAA5 issue
+      - Br/DOC ratio key to brominated DBPs
+      
+      
+### Accelerated THM Precursos Analysis as a Tool for Near Real-time Assessment of NOM and DBP Control
+*David Reckhow, Patrick Wittbold, Celina Dozier (presenter), Ran Zhao*
+
+$NOM + Disinfectant = DBPs$
+
+THM rule start of disinfection byproduct regulations. It began the need for rapid assessment of DBP precursor concentrations. Online analyzers can reduce dbp analysis time but it does not solve the problem of dbp formation potential tests (typically take 1-7 days). 
+
+THMs levels can vary unpredicatably between WTP and remote locations. The trends at these sites can vary significantly without a noticable pattern. Levels at the remote sites tend to be much higher than at the WTP. 
+
+Network THM levels depeent on many factors:
+
+  - Time
+  - precursors (NOM, br, cl~2~)
+  - pH
+  - water temp
+  - water treatment operations
+  
+Online thm-fp monitoring: **THM-FP = THM Formation potential**
+
+  - real time thm-fp wtp can predic future network thm levels. 
+  
+Mill River Monitoring Project Objective:
+
+   - collect a database of information of propose best options for monitoring thm precursors based on near real-time data and to advice on methods. 
+   
+Mill River:
+
+   - located in north amherst and goes through a natural greenbelt southwest to hadley and the conn. river
+   - typical NE water quality (i.e. low alkalinity, low hardness)
+   - feeds to conneticut river
+   - continuously pumped into water and energy testing facility for sampling and water quality monitoring
+   
+Monitoring INdtruments:
+
+   - TOC (2 min)
+   - UV255 (8 sec)
+   - Multispectral (5 min)
+   - COD (10 min)
+   - THM-FP 
+
+Typical WQ:
+
+   - pH = 6-7.5
+   - TOC = 4-7 mg/L
+   - UV254 = ~0.13 A.U
+   - COD = ~10 mg/L
+   
+Flow data was obtained from neighboring system. Flow and DOC are highly correlated. Increases in flow result in an increase in DOC. 
+
+Online THM-FP analyzer:
+
+   - accelerated chlorination method:
+   
+      - water pumped into purge
+      - takes about 1-1.5 hours
+      - dosed with chlorine 
+      - heated at high temperature
+      - purge and trap
+  
+  - detection -fujiwara reaction:
+  
+     - four distinct THMS are common in drinking water 
+     - 
+     - chloroform reacts more slowly than other THMs to form the fujiwara profuct
+     - the thm speciation of each water sample is deduced from kinetics in the fujiwara reaction
+     
+     
+Results:
+
+  - low doses of chlorine showed a much lower THM-FP than for higher chlorine dosage. 
+  - thm-fp increased as toc increased for high dosages of chlorine and with increased reaction time. Low dosages of chlorine did not see a difference based on reaction time since there is not enough chlorine to react with the TOC
+  - online analyzer vs laboratory method:
+  
+     - chlorine does varied between 6-61 while lab was ~ 34
+     - reaction temp was 60/80 for online vs 20/80 in lab (standard method)
+     - reaction time was 1 hour for online vs 72 for lab
+     - extraction purge & trap for online vs liquid-liquid extraction fo rlab
+     
+  - online analyzers showed similar anounts of stability with lab measurements
+
+High Temp concentrations vs low temp concentrations:
+
+   - dbp groups have different mechanisms
+   - tri-haas decrease at high temps
+   - potentiall due to mechanism for THM and di-HAAs reacting much faster with chlorine than tri-HAA5
+   - potential loss of tri-HAA5
+   
+Conclusions:
+
+   - DOC levels mimic trend in flow
+   - necessary to have enough chlorine to give representatiive dbp generation
+   - online thm-fp analyzer results more consistent/stable than lab
+   - lower concentrations of HAAs at high temp lead to further questions
+
+
+### Predicting HAA9 with THM4 and HAA5 Data
+*Stuart Krasner*
+
+DBP rule includes MCL for the sum of 5 HAAs. however, there are 9 HAAs and epa may begin to regulate for the HAA9 as part of the 6 year review of the DBP rule. In low bromide waters, HAA5 is ~ 80% HAA9, while high bromide waters HAA5 ~ 50% HAA9. Singer et al (2002) found a equations to find HAA9 for molar level. Former work by krasner (presenter) established a bromine incorporation factor. if BCF = 0 than all TCAA. IF BCF = 3 then all TBAA. if BCF = 1, then average species = BDCM or BDCAA. Normalized BIF (BIF/X) (Goslen et al 2014) where 0 is all TCAA/DCAA and 1 is all TBAA/DBAA
+
+Experimental - evaluated some moderate and high bromide waters from MWDSC and 4 cities in spain. Bromide levels in MWDSC has ranging levels from median levels of close to 80 ppb to 200-300 ppb. In catalonia (includes barcelona) has systems with 0.9-2.0 **ppm** bromide. Other systems in spain had no bromide at all (< 0.015 **ppb**)
+
+
+Results: 
+
+  - Predicted BDCAA vs measured BDCAA showed a pretty good relationship, however, the predictions were over predicting the results. 
+  - DBAA was over predicted by ~85% 
+  - predictions that were normilized with the slope factor from other plants increased the prediction accuracy significantly. 
+  - prediction of BCAA:
+  
+     - BIF/X = 0.5 --> average species = BCAA
+     - THM's average species = somthing in between BDCM and DBCM
+     
+  
+Research Needs:
+
+   - better understanding of the formation and degradation of brominated analogues of TCAA, especially TBAA. 
+   - slopes of regression lines in other waters
+   
+   
+### DBPs in a Full-Scale Drinking Water Treatment Plant: Occurence, Reaction Rates, and Differential UV Absorbance Monitoring
+*Nicolas Beauchamp (presenter), Caetano Dorea, Sabrina Simard, Christian Bouchard, Genevieve Pelletier, Manuel Rodriguez*
+     
+standards in Quebec very similar to US. In some municipalityes, thm standard not alwasys met due to summer sample.
+
+Objectives:
+
+   - characterize the formation of dvos in a case study plant
+   - compare two types of models (kinetic, differential UV absorbance) for predicting dbp conc
+   - evaluate the potential of differential UV absorbance in full-sclae conditions. 
+
+Case study was done in Montreal, Quebec on the North River. Location is upstream of agricultural so it is not impacted by this. Plant has parellell systems with rapid/slow mix, clarifiers feeding 12 filters then into reservoir. NAOCl is fed prior to reservoir and priod to filters. ClO~2~ is dosed i reservoir. This gives almost 1 day of reaction time for dbp. 
+
+Sampling strategy:
+
+  - intensice 24 h campaigns 
+  - 16 sampling points
+
+Models:
+
+  - kinetic model
+     
+     - chlorine decay (haas and karra, 1984)
+     - dbp formation (sohn et all, 2004)
+     
+  - differential UV absorbance model
+  
+      - linear model (Korshin et al 2002)
+
+Results:
+
+   - rapid formation of THM is seem in most months with gradual increase after that. However, for summer months this increase is not gradual. And DBP increased even more with increased contact tie. 
+   - similar trends were seen for HAA6 
+   - unregulated DBP trends is different becasue high temperature decreased the concentrations of some of these unregulated contaminants
+   - This trend was not seen for CPK
+   - kinetic models for chlorine decay were similar for spring and summer sampling rounds but due to differences in raw water characteristics the method of chlorine consumption is differenet (nitrification in spring and dbps in summer)
+   - THM4 kinetic model was similar for fall and summer
+
+Conclusions:
+
+   - thm4 profile is noticeably different in july campaign
+   - this trend is the same for haa6
+   - COK behave like THMs (2-phase no degredation)
+   - kinetic models had excellent prediction performance
+   - parameters easy to retrofit, but likely difficult to predict (Sohn et al. 2004)
+   - differential uv absorbance models slopes vary from one campaign to another
+   - questions raised:
+   
+      - positive intercepts - precursor with no iv absorbance, hlorinationm of particulate organic matter
+      - will models hold true from one year to another
+      - are model apramters too hard to predict
+      - other tools?
+      - how precise should the feedback be?
+      
+
+
+# Day 2 - Tuesday 2017-11-14
+
+## Early Bird Session
+
+### Regulatory Horizon: National and State Perspectives (Panel Discussion)
+*Alan Roberson, Steve Via*
+
+**Q: How do you define a health advisory level and how do they factor into regulations**
+
+AR: They are exactly that advisory, however, recently they have become defacto standards. An issue with this is that these standards have not gone through the same rigorous vetting as MCL
+
+SV: A health advisory is the same as a MLCG, and is exactly that is that it is a goal. MCLG don't have the same vetting with regards to feasibility, treatment process, and cost-benefit. Social media, however, has made it hard to not try and meet these MCLG. 
+
+AR: Currently, EPA is not planning on releasing any new MCLG for these reasons. 
+
+SV: safe drinking water board is looking at how health advisories will be handled in the future
+
+
+**Q: May 2016, EPA established MCLG for PFOA and PFOS, can you explain what the risks are for PROA/PROS and what is the pathway to regulation**
+
+AR: The issue has upgraded from front burner to top priority. Differing levels of standards in different states are causing controversy about why some levels are acceptable in some places but not in others. As far as path to national standard, the answer is no, currently, under the current administration. 
+
+SV: a key factor is the toxicology of PF, and that will make a large difference in how this will need to be regulated. Another piece is do you want a standard just based on PFOA/PFOS, or should we try and get a more complete picture of PF, since those are only two of the possible formations of these compounds. At this point is putting a number on these two, just trying to give the public piece of mind?
+
+AR: TO give a glimpse into the toxocolgy, a study in NC found a safety standard 1400 ppt, but has since been lowered to 400 ppt. Another issue is finding a method for different water sources. North carolina developed a drinking water method but could not figure out an environmental method for measuring these compounds. It is this idea of not putting systems in a bind of having to look for it in their systems without any method of being able to figure out where it is coming from
+
+SV: With so much anxiety around these compounds, every utility should have the compounds in mind. Whether the regulation is there, the methods are there to begin testing for it.
+
+AR: The sources of these compounds are more widespread than initiall thought. Another big issue is trying to find all of the numerous sources of these compounds and then trying to figure out replacement. There are also a ton of species, and they bioaccumulate differently in people than in animals (which will affect risk assessment models). Every body if tested would have it in their body.
+
+
+**Q: WRT the health advisory levels, can they get looser?**
+
+AR: In short, yes, but you need to have equivilant health protection. However, socially and culturally, it could be really hard to sell. People will have trouble understanding that even if you explain that you have more information. 
+
+SV: The backstop for this is the TCR. There is very little restriction for how health advisory rules are handled
+
+**Q: Is there any hope that the health advisory will be advised to take away PN?**
+
+SV: EPA thinks it isv ery important to have a risk communication package before a health advisory is rolled out. It is unlikely that the PN will be taken off the table. 
+
+AR: It is unlikely that these will change. If you test for anything, in this day and age, you need to be prepared for communication and remediating the results if they are high. A perfect ecample of this is lead in schools. Even if the testing and notification is not mandatory, you should be prepared to do it.
+
+**Q: Take a look at the EWG database to see how they display their data to the customer and how they explain it**
+
+AR: It is important to how you display data, but I worry that this may discourage utilites from doing research and being progressive to find out what is in their water
+
+Asker: WRF study shows that the more outfront you are with research the better the utility looks
+
+SV: Currently, regulations take a long time, it is on the utility to be proactive to ensure that their system is not experiences there health-related issues
+
+AR: New regulations will continue to come out in cycles due to UCMR, but how you tell the story of the progressive utility and the research they do can get lost on social media
+
+
+**Q: With all EPA has decided with looking at DBP rule again, is there any update?**
+AR: EPA is going to continue to work on it under the current administration, hwoever, it is unlikely that they will propose anything under the current administration. That provides a window to consider how a wholistic approach to controlling DBP's considering how things will be regulated in the future. 
+
+SV: It is worthwhile to consider how long it took stage 1 of the DBP rule out, it started in 1992 and came out in 2006. It is also imnportant to remmeber that when you talk DBP, you need to talk microbials. Which can lead you down the rabbit hole of legionella, and detectable chlorine levels which are all hot topics as well. It also leads to conversations about intakes and how current regulations may not require enough CT, which leads to more regulatory topics. So DBP's is a tough regulatory issue
+
+AR: The microbial issue that will need to be dealt with but it needs to be talked about in the context of stage 3. People are talking more about legionalla and so now they are finding it for. (*Reminds me of if you build it, they will come*) 
+
+**Q: Typically contaminant by contaminant as been the regulatory approach, is there a possible benefit to a paradigm shift to connecting the safe drinking water act and the clean water act**
+
+SV: Current process is not about individual contaminants. individual contaminants are monitored and regulated but they are markers for other things that are happening. There are people that would like a toxicity level regulatory, where it says "your water is this toxic, fix it". He would prefer to continue to pick contaminants that are good markers.
+
+AR: Current regulations are law, so changing that would be hard. SV is correct that we should continue to look for the correct markers to best identify the risks in water systems. 
+
+
+**Q: Is the line for what the DS is responsible for (i.e. the curb stop) going to change:**
+
+AR: No, the recommendation is still to control to the tap. But more effort still needs to be done to educate building owners about building water quality. There is conversation about how to make building operaters test the minimum to maintain good water quality.
+
+**Q: When it comes to the adoption of new tecnology in our industry, is it easier today then in the past?**
+SV: Utilities are hungry for innovation and are looking to invest, but it is not necessarily easy. It can be easy for operational issues but things that are related to regulations and system processes take time because study justifying new methods must be proven
+
+AR: It is not going to get easier for the process equipment, but outside of that, *let's innovate*. The three major costs are people, power, and chemicals. So the innovation space is there and it is highly encouraged.  
+    
+    
+## TUE07 - Modeling Source Water and Distribution System Quality
+
+### Intelligent Decision Supprt System to Plan, Manage, and Optimize Water Quality Monitoring Programs
+*Sonja Behmel (presenter), Matheiu Damour, Ralph Ludwig, Manuel Rodriguez*
+
+CHallenged of Integrated watershed management:
+
+   - get reliable assessment of water quality through water quality monitoring programs
+   - invoke stakeholder involvment
+   
+Methodology:
+
+   1. Monitoring Objectives
+   2. Sampling Sites, Water Quality Parameters, Sampling frequencies and recurrence
+   3. logistics,
+   4. technical means
+   5. financial and human resources
+   6. information channels and use
+   
+A good program cannot be static, it **must** have the ability to evolve in its implementation with new regulations and monitoring techniques. All changes in the program need to be documented and trasparent. 
+
+Objective: Develop the conceptial framework of a user friendly intelligent decision support system (IDSS) to plan, manage, and optimize surface water quality managemnt program
+
+Case Study:
+
+   - two watersheds - one in montreal and one in quebec
+   - design of the IDSS 
+       - identify target users
+       - establish purpose of the system
+       - define terms and establish common temninology
+       - elaboration
+       - constudtion and design
+       - implementation and itegration
+
+Explicit knowledge on these topics is only the tip of the iceberg. 
+
+Expert interviews were conducted to try and fill gaps between the literature review. After the interviews were done, the results were all combined. They also gathered potential users for this system and tried to fill in their entire wishlist for things they would like to see in this type of systems. 
+
+Used customer and utility surveys to update the monitoring program objectives. 
+
+
+Discusiion:
+
+   - effective integrated watershed management is a question of scale
+   - consumer opinions should be taken in to consideration 
+   - must promote participative approaches to simulate an effective WQMP. 
+   
+
+### Real-time Modeling of Cynotoxin Oxidtion in Clearwells
+*Alexander Gorzalski (presenter), Gregory Harrington, Anna Hayden, Anne Spiesman, Orlando Coronell*
+
+Problem Statement: Treatment plants lack adequate operational tools for managin cyanotoxins
+
+Proposing:
+
+   - we can estimate the  degradation of cyanotoxins in clearwell in ral time using common operation paramters
+   - could replace actual monitoring in the future
+   
+Need for Cyanotoxin Oxidation model:
+
+   - alage cause problems:
+   
+       - taste and oder
+       - operational disruption
+       - toxins created
+       
+2014 saw a do not use order in toledo ohio. This caused regulatory actions to be taken. A health advisory level have been created for 10-day. There are two different levels for chlidren under 6 and for chlidren over 6. UCMR 4 will begin to require monitoring for cyanotoxin in the next few years for systems with > 10k people.
+
+ELISA Method Limitiations:
+
+  - onliy method repaid and simple enough for water utilities
+  - frequent false positives
+  - EPA recommended that the minimum detection limit was raised above the health advisory limit for children under 6
+  
+Model Development:
+
+   - why focus on microcystin?
+   
+      1. most commonly detected toxxin in the US
+      2. more resistant to chlorine decay than other species
+    
+   - why focus on chlorinated clearwell?
+   
+      1. avoid intercellular/extracellular toxin distinction
+      2. disinfection most common treament, chlorine most common disinfectant
+   
+   - model inputs:
+   
+      1. resdience time (t10 rate used for giardia and crypto)
+      2. contaminant decay kinetics
+      3. oxidant decay (can just used effluent concentration)
+      
+   - Output: decay of contaminant
+   
+   - kinetics:
+   
+      - first order decay equation for microcystin was log linear
+      - batch experiment was conducted to confirm the decay kinetics. 
+      - site specific correction factor 
+        
+         - observed decay was slower than results from literature
+      
+    - residence time distribution calc methods:
+    
+       - plug-flow reator
+       - t10/$\tao$ PFR
+       - tanks in series
+       - reactor network - parallel TIS
+       
+    - selecting appropriate model: 
+    
+       - used hydraulic model
+       - Reactor network had the lowest log reduction (most conservative) and it fit data the best
+       
+    - model outputs - predicting toxin decay:
+    
+       - decreases in flow cause a rise in log reduction, and when flow returns, the log removal returned to normal
+       - can decide when to sample to get a picture based on worst cased scenario
+       - moer daily variation than seasonal variation in the data
+       
+Conclusions/Future Work: 
+
+   - robust oxidation capacity at particular plant
+   - toxin oxidation vapacity more variavle daily than seasonally (important to understand performance with high temporal resolution)
+   - modeling can improve operational decision making
+   
+   - room for improvement:
+   
+      - decay kinetics with ELISA did not match literature
+      - established decay kinetics are needed (CT Tables for toxins)
+      
+   - future work:
+   
+      - vlidate model with reactive tracer
+      - model expansion - other toxins or contaminants (NDMA-FP), other oxidants (O~3~, NaMnO~4~) 
+      
+      
+### Monitoring Lake Mead Water Quality in Real-time with Online Instrumentation to Better Understand Drinking Water Quality Changes
+*Caitlin Glover (presenter), Eric Dickenson*
+   
+Project Motivation: 
+
+  - since 2000 Lake Mead elevation has dropped by > 143 ft
+  - changes in water quality 
+  
+     - increases in temp, salinity, TOC
+     - potential for algal blooms to increase in frequency
+  
+  - lake is fed 95% from colorado river and 5% from las vegas wash (wastewater effluent)
+  - intake in lake is closer to las vegas wash influent than colorado river intake
+  - WTP have primary disinfection with O~3~ 
+  
+Project Goals:
+
+  - rapidly detect changes in water quality at SNWA water intake
+  - provide data to support ongoing evaluation of infrastruture and treatment processes
+  - incorporate data into existing Lake Mead models
+  
+Project Overview: 
+
+  - in leake mead with bouys
+  - drinking water intake with instruments installed in plant lab
+  - finished drinking water at the effluent of the plants and two DS sites
+  
+WQ Parameters:
+
+  - DO, Cond, ORP, pH, Temp, TOC, UV254, Turb, Refractive index (raw water intake, Lake mean)
+  - e-coli (raw water intake)
+  - alage - total, chlorophyll a and b, cynobacteria detection (raw water intake, Lake mead)
+  - fDOM, Tryptophan optical brighteners (raw water intake, Lake Mead)
+  - organic/inorganic chemicals - chemical toxicity (raw water intake)
+  - THMS (finished water)
+  
+Project Steps:
+
+  - review (cost, availability, scada compatibility, O&M)
+  - in houes trial
+  - purchase
+  - install
+  - data implementation into SCADA
+  
+THM analyzer seems to be fairly accuracte. Presentation focused mostly on what intruments are used 
+
+On-going project goals:
+
+  - emergency repsonse for water qquality events
+  - add three additional bouys in lake mead
+  
+
+###A methodology to optimize spatio-temporal drinking water quality monitoring drinking water quality monitoring considering population vulnerability and perception
+*Ianis Delpha (presenter) and Manuel Rodriguez*
+
+Background:
+
+  - selection and optimization of drinking water monitoring location - rapidly detect water quality failure to protect citizens health
+  - population vulnerability to wter quality defradation can be defined by its sensitivity, adaptiv ecapacity and exposure
+  - required data is diverse, complex, and is available in different forms (qualitative, quantitative, temporal, geographical, etc)
+  
+     - increasing complexity with increasing size
+     
+  - fusion of info requires selection of suitable variable and adequete data mining and aggregation method
+  - different multicriteria analysis methods exist to aggregate data (Fuszy Logic was chosen)
+  - choice of tap water use is determined by location in DS, DWQ, health risk
+  - citizens satisdaction regarding tap water quality is not goof prefictor of its consumption behavior
+  - need to better understand the determinants that influence public perception
+  
+Objectives:
+
+   - develop a method to optimize drinking wate quality monithing programs by considering two components that vary spatially and tempoaratly 
+   
+     - population vulnerability
+     - drinking water quality
+     
+general framework:
+
+   - global, seasonal and monthly analysis
+   - Fuzzy Logic
+   - vulnerability determined by exposure, sensitivity and adaptive capacity
+  
+study was done in DS of Quebec from 2010-2012. 111 sampling points and experiences seasonal WQ changes. 4 WTP supplying ~ 510k people
+
+Data:
+
+   - selection criteria: relevance for monitoring and decision making, data availability and acquisition cost
+   - water quality data: pH, temp, UV254, Free chlorine, turbidity
+   - infrastructures: pipe age and material, number of breaks/km/year
+   - hydraulics: water residence time
+   - socioeconomic data: material and soxial depreviation index
+   - data was alidated by comparing two xensus periods
+   - sensitivity: elder (> 75 years), young children (< 5 years), number of beds (hospital)
+   
+   - preception (phone pool 2011):
+   
+      - 1014 citizens
+      - uniformaly distributed location wise
+      - questions regarding consumption, risk perception, satisfaction, knowledge, demographicsm
+      - perception very good
+      
+Unit of analysis: 
+ 
+  - census tract - based on location and demographics
+  - all data was aggregated at the census track scale
+  - 134 census tracks supplied by DS
+  
+Fuzzy logic assessment:
+
+   - three main steps:
+   
+       1. Fuzzification 
+       
+          - made by using triangular membership functions
+          - define threshold values and weights for each parameter (neutral, good, optimal)
+          - based on operator knwoledge and literature
+      
+      2. aggregation: matrix multiuplication
+      3. Defuzzification (??)
+      
+Preception: 
+
+   - creation of 5 different profiles based on consumption 
+   - mediation analysis was conducted by testing different factor
+   
+   
+Results:
+
+   - water quality analysis showed seasonal variation
+   - some sectors remained the same in some sectors based on free chlorine residual
+   - exposure index was calculated by combining water quality index with infrastructure information
+   
+   - identification of risk sectors:
+   
+      - census tracts that conbine vulnerability sectors
+      - highest quantiles for the 3 indices
+      - identification of sectors prioritize monitoring
+      - 2 invariant census tracts
+      - other sectors to prioritze depending on the season
+    
+    - few relationships b/t tap water quality and consumer profile
+    - the consumer profile is strongly related with its satisfaction of water quality and its leels of information
+    
+Conclusions:
+
+   - elaboration of vulnerability maps (monthly, seasonally, and gloablly)
+   - this allowed for identification of vulnerable sectors
+   
+
+## TUE02
+
+### UV Light Control of Nitrification in a Distribution Reservoir
+*Susan Teefy*
+
+
+UV lights were installed in a distribution reservoir which proved effective. After bench-scale tests were done by taking samples from the reservoir, and applying uv treatment, it was moved to full scale. 
+A UV disinfection unit was rented from Neptune Benson and it met EPA guidelines. Water is pumped into the unit through pipe and treated. The entire reservoir can be treated in roughly .5 days. The unit sits on top of the reservoir and the water runs through it. 
+
+Water Quality Data Overview:
+
+  - historic: 
+  
+      - serveral years of data
+      - chlorine residual and nitrite
+      - from one source, the water does not experience nitrification. 
+      - from the other, the water nirtifies fairly quickly
+      - breakpoint chlorination treatment is effective but not long lasting
+      - nitrification occues in 2-3 months, nitrite can increase quickly (0.2 - 0.3 mg/L)
+      
+  - before installation:
+  
+     - water quality was good prior to problem WTP being put in service. Once in service, nitrification began. 
+     - once breakpoint chlorination was needed, it was done and the mixer and uv unit was installed. 
+     - reservoir was treated again
+     
+  - first 6 months of operation
+  
+    - nitrite is still present but it does not increase
+    - this allowed the utility to not perform breakpoint chlorination for 6 months
+    - online analyzer really helped
+  
+  - shutdown period
+  
+    - within two months, parameter behavior went back to normal with nitrification occuring roughly two months later
+    - breakpoint chlorination was then done and uv unit put back in place
+    
+  - restart period
+  
+     - there was an increase in nitrite still but the increase occured over a 5 month period, with it being pretty stable for the first 4 months
+     - after the 5 month, breakpoint chlorination is still needed. 
+  
+Conclusions:
+
+   - uv was not able to reverse nitritifcation but it really just suppressed it
+   - breakpoint chlorination still the only way to prevent this
+   - cleaning and mixing did not imprive chlorine residuals or nitrite
+   - monitoring:
+   
+      - hpc results are difficult to interpret in full scale reservour
+   
+
+## STS02 - Lead: New Insight on Corrosion
+
+### Evaluation of Flushing to Reduce Lead Levels
+*Richard Brown (presenter) and David Cornwell*
+
+Background:
+
+   - disturbances during LSLR have been shown to increase particulate and total lead in the weeks /months following replacement
+   - canin-home, high velocity flushing eliminate or mitigate there impacts
+   
+      - flush by opening all taps inside the house for several minutes (30 minutes)
+      - flush is a one time event
+    
+    - PLSLR
+    
+       - remaining lead is disturbed
+       - can release lots of lead particles
+    
+    - LSL 
+      
+       - can reduce lead that has built up in other plumbing materials
+       
+This study focused mostly on homes with complete LSLR. 
+
+Typical for service lines to already be full LSL except some had partial to start. Most samplings required around 12 L of water to be collected
+
+Sanple Collection:
+
+  - low flow rate = normal use (~3-4 L/min)
+  - high rate = high as you can  (~0.66 L/min)
+  - 6 hour stagnation after aerator removed
+  - samples were collected prior to replacement, prior to flush, and after the flush (multiple rounds after flush)
+
+Results: 
+
+  - PLSLR:
+   
+     - 1 day after replacement and 1 day after flush there was always a spike in lead levels
+     - after first day, lead levels start to recover
+     - a lot of material is mobilized during that high lead level period
+      
+  - FLSLR:
+  
+     - Lead levels went down however the starting level was already very low (< 3ppb)
+     
+     
+  - the flush removed the lead from disturbed pipe but there was still a high leels left that took time to drop down
+  - full replacement did not see high levels after replacement before flush or after flush
+  - Total lead saw a decrease as a result of both the replecement and the flush in the house and in the LSL
+  - Total lead drastically reduced in the LSL after it is replaced
+  - Did flush improve lead levels? (FLSLR)
+  
+      - 2 saw no change 
+      - 9 showed some impact (none were "worse")
+      - 2 improved but peaks in pr flush samples were less than < 10 ppb
+  
+  - peaks 
+  
+      - at low rate, peak occured in the LSL
+      - at high rate, peak occured in home
+  
+  - flush removed substantial amounts of all metals tested for the majority of utilities that tested for it. 
+  - all PLSLR **always** had large peak in lead one day after flush
+  - flush-only (no replacement) had a few homes that were negatively impact after the flush 
+  
+Conclusions:
+
+   - Pb and other metals were removed during fludh
+   - FLSLR removed almost all Pb in SL, esp dissolved
+   - Improvement noted after FLSLR and additional improvement noted due to dlush
+   - some disturbance after LSLT esp PLSLR in 1st few days
+   - at some locations improvement was not evident in low rate profile or peak data but was evident in high rate or "cumultive" data
+  
+
+
+## TUE12 - Lead Testing: Public Perception and Protection
+
+### Impact of Public Awareness and Customer Behavior on the NYC Free Residential Lead Testing Program
+*Salome Freud*
+
+NYC surface water source. 19 reservoirs, 3 controlled lakes. NYC water is lead-free when deleivered from NYC's upstate reservoir system
+
+distribution system:
+
+   - 208 metal samples were collected from sampling stations at the street curb. 
+   - Pb = 1 ppb, 4 samples
+   - Pb = 15 ppb, 1 sample
+
+NYC has an old housing stock
+ 
+   - current estimate is ~50k LSL
+   - LSL have not been installed since 1961
+   - Lead solder banned in 1987
+   - LSL property of homeowner
+   
+DEP begain applying CCT by adjusting pH and adding orthophosphate. Free residential Lead program also began in 1992 offering any resident of NYC with free at the tap lead testing kit. THe free testing program is not mandated by the LCR. Any one can request it by calling 311. NYC health department also requests kits for investigations of occurence of elevated blood lead levels in children. Samples are collected by the residents themselves. Kit contains:
+
+   - 2 wide mouthed 1L bottle
+   - COC
+   - Return label
+   
+All results are submitted to NYC DOPH. If the lead results are greater than 15 ppb then dep immediately sends all results to NYDOPH and sends residents a new kit with three bottle retest kit. None of these results are included in LCR 90^th^ percentile calculation. Even though it is not included in LCR calculations, all sampling procedures are the same as those used in the LCR. Recommendations are also made to cutomers on how to reduce lead levels in the honme. Additional public health material can be found on the NYC DEP website. 
+
+Reaosns for requests:
+
+  - taste and odor
+  - discolorization
+  - particles 
+  - neighbors had high levels
+  - other 
+  
+22% of requests are in response to water construction or shutdown. Only 40% of those are returned for analysis. 
+
+Trends in free testing requests: 
+
+   - most years follow a typical level around 2000. 
+   - there are spikes in 2004, 2010/2011, 2016, 2017.
+   - all of these spikes were related to events in the news that related to lead
+   - in 2004, there was a notice of violation for a reporting violation for the LCR and there was a spike in requests along with increased customer education
+   - from 2006 to 2009 replaced all known LSL
+   - in 2010/2011, violated the LCR action level. 
+   - Held a press conference and increased public education program. There was a huge spike in requests following the press conference. 
+   - compliance monitoring period went from 12 months to 6 months as a result of the violation
+   - in 2016, Flint water crisis cause a huge spike in requests. Most spikes this year correlated with the release of particular articles regarding the lead in drinking water crisis. 
+   - there was a 400% increase in kit requests as a result
+   - in 2017, there was a lot of requests as a result of news regarding lead in schools in NYC. Again, correlated with release of news articles about lead 
+   
+Kit return rates: 
+
+   - once customers are made aware of the lead leels in their drinking water, they are more likely to retunr a sample. 
+   
+       - the average 3 bottle kit return rate is 68%, where the 2 bottle is 46%
+       
+   - customers are more willing to return a sample when there is an increased concern about lead i.e., when there is a lot of edia attention regarding the topic
+   
+kit return conditions:
+
+   - based on the information filled out by customer on COC
+   
+      - the majority of samples are collected from kitchen 
+      - most samples are from unfiltered samples
+    
+   - returned kits not meeting the sample acceptance criteria are not analyzed 
+   
+      - in 2016, only 57% of returned kits met the criteria
+      - the remained 43% of customers are contacted to clarify
+      - after contact, 91% are analyzed
+      
+   - a retest 2 bottle kit is sent to customers who return an invalid samples with reason they were not analyzed
+   
+   - based on this, new sampling instructions were put together to try to reduce this
+   
+results: 
+
+   - some max levels are very high on the order of ppm instead of ppb
+   - 90^th^ percentile only over 15 in 2010
+   
+conclusions:
+
+   - increase public awaremness puts increased pressure on utility offering free testing
+   - utility must be prepared to repsond to similar scenarios in the future
+   - in 2016, DEP observed 400% rise in demand for free samples
+   
+   
+### Lead Testing in K-12 Schools: Results from Southern California
+*David Kimbrough*
+
+The new permit ammendments: 
+
+   - CWSs operates under permit to supply potable water from the divison of DW
+   - recently revisions were sent to require testing for schoos
+   
+   - if requested, the utility must provide sampling for lead and other water quality issues. 
+   
+Lead Service Lines:
+
+   - more popular in large cities than smaller cities
+   - selected over iron steel because they were estimated to last twice as lone
+   - highest leda levels in homes with LSL are not in first draw sample
+   
+Southern California:
+
+   - not many LSL
+   - water is very hard
+   
+Brass Faucet: 
+
+   - the first liter of water conatins samples from brass fixtures
+   
+School faucets are different, they have much more brass in water fountains than in normal kitchen sinks. Lead that is likely found in the school monitoring program will likely come from brass. Changing brass fixtures can increase lead concentrations at least over the short term. 
+
+Lead Testing: 
+
+   - out of 13,000 schools close to 1600 had made requests for testing. 
+   - The highest request by county is in san diego ~ 490 reuests
+   - results so far: 
+   
+       - of the 5,653 results, only 524 are detect however the detection limit was 5 ppb. 
+       - only 45 samples (0.8%) were above 15 ppb
+       - the 75^th^ percentile was 11 ppb
+       
+CA blood lead testing results:
+     
+  - very low percentage of children with elevated blood lead levels (< 1%)
+  
+
+Source of Lead Exposure Identified amound children in LA was shown to be predominantly paint, dust, soil, take home (from work), home remedy. Water is not included in this analysis. 
+
+Reuters did a study that showed that 2% of children tested (~2,000) had elevated blood lead levels. There was a ton of news about lead in the schools. Even though there was a lot of public uproar about this, there were very few elevated lead levels in schools. 
+
+PWP's approach: 
+
+   - above 15 ppb results in recommendation to remediate 
+   - 15 ppb is not a health level but a corrosion treatment level
+   - PWP actively seek out K-12 schools to participate
+   - PWP will recommend that any detection requires some kind of remediation
+   - 2 L were collected. 
+   - if both below detection limit, no worries
+   - if first is high and second is not than it is coming from brass
+   - if only second is high than further investigation is required. 
+   
+As of now, they have sampled 29 of 60 schools. Every school has been contacted. Most private schools are not interested. 
+
+Of the 22 public schools: 
+
+   - 110 locations and 220 samples
+   - 3 positive results
+   - 2 in kitchens, 1 drinking fountain
+   - 1 kitchen only in first draw not in second
+   - other kitchen and fountain had positive in both 1st and second draw.
+   
+4 Pre-k Schools:
+
+   - 17 locations and 34 samples
+   - 2 elevated level
+   - elevated levels seen in both faucets and supply line. 
+   - after replacement they got non detects
+   - second elevated school saw elevated level in the supply line. 
+   - the line was replaced and they then got higher numbers in the first draw. 
+   
+PWP has been monitoring for LCR for 30 years
+  
+   - 50 participants
+   - every cylce we lose 3 to 4 participants
+   - this year they did not even get 25 
+   - they still had not finished by auguest 31
+   - as of 8/31, 43 samples were analyzed and all but one were non detects and that was from galvanized pipes
+   
+
+
+### Applications of Sequential Sampling for Lead in Water to Inform Management Decisions
+*Elise Deshommes (presenter), Michele Prevost, Cecile Riblet*
+
+Method for sampling techniques vary greatly between different countries. MCL for most countries is 10 ppb, with exception of USA. Health canada is changing MCL to 5 ppb and changing sampling protocol from 6h stagnation to RDT or 30 minute stagnation. These types of analyses are also possible in US
+
+Profile sampling can provide understanding of water lead levels variation at the tap. This profile typically takes two types, 30 minute stagnation profile and > 6 hour stagnation profile. The 30 minute stagnation does a 5 minute flush prior to stagnation while the 6 hour method does not. For lead exposure, a combination of probabilities must be considered. The length of home plumbing and length of individual materials will vary greatly from house to house. Is the water used frequently or is it often stagnant? Water from LSL or home plumbing? Daily water intake?
+
+MEthodology:
+
+   - profile samples collected after 30MS and 6HS in 4 differen systems. 
+   - investigations of impacts of LSLR on:
+      
+      - WLLs at tap
+      - modeled BLL
+      
+
+Impact of partial LSLR on lead concentrations:
+
+   - with the profile, you double the 90^th^ percentile of the value of the first draw. It is much harder to detect peaks in lead levels with first draw samples. PLSLR did not make the results work in this case but they also did not inprove the results. 
+   - for systems without CCT, profiles should higher 90^th^ percentile values 
+   - PLSLR did not greatly reduce the 90^th^ percentiles of lead levels, while FLSLR did cause significant reduciton
+   - first draw samples were not good at detecting these differences 
+
+The geometric mean of profile samples and then the overall mean of these means were used to estimate lead level exposure to input into BLL model which is based onlead exposure and water consumption. Systems with no CCT had a much higher estimated BLL for high weater intake (0.74 - 1 Lpd). After PLSLR a decrease in BLL were seen in the model but there were still results higher than desired. After FLSLR the model showed much lower estimated BLL. 
+
+
+Conclusions:
+
+  - profile sampling results provided info regarding CCT efficiency, WLL variability and potential exposure
+  - GM BLL model results heavily impacted by water consumption results
+  - FLSLR greatly reduced lead levels in both first draw sample but also profile samples. 
+  
+  
+  
