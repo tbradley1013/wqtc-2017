@@ -1258,3 +1258,362 @@ Conclusions:
   
   
   
+# Day 3 - Wednesday, 2017-11-15
+
+## STS04 - LCR Regulatory Update and Distribution Corrosion Stability
+
+### WIIN Act and Its Impact on Lead In Drinking Water - Overview of Implementation Tools
+*Edward Viveiros*
+
+Water Infrastrcucture for Improvements to the Nation (WIIN) Act. 
+
+Overview of WIIN Act Strategic Plan Requirements:
+
+   - WIIN Act required EPA to develop a plan
+   - purpose of the plan is to ensure targeted info tis provided to households affected by lrad in DW
+   - the plan is essentially an SOP for implementing public notifications to educate with regards to lead in drinking wter
+   - When is plan triggered:
+   
+       - EPA develops or received data from a source other than a astate of public watet system
+       - data vcomes from housegold drinkinw water sampling served by a public water system 
+       - lead levels in sample exceeds 15 ppb
+       
+   - see 1414(c)(5) for flow diagram regarding this plan
+   - when epa receives this data they will fill out a data submission template to determine the efficacy of the samples
+   - epa will work with state and PWS to determine an appropriate timeline (2 days for < 10 homes, 5 days for > 10 homes)
+   - stategic plan has notification templates to assist with dissemination of info
+   - info should be directly delivered by mail, email, or in person
+   - if PWS does not send notification:
+   
+       - if epa becomes aware that they did not than the agaency must comsult with the State Governor within 24 hours
+       - state governer and epa then have 24 hours to come up with a plan to disseminate the info within 24 hours
+       - if the governors office does not send out the info, the epa will do it directly
+       
+       
+National Compliance Trends:
+
+   - EPA receives quarterly data on LCR complaince and violations, AL excedences, 90^th^ percentiles, and other milestone data
+   - two main violations are monitoring and reporting violations and treatment technique violations
+   - Form july 2016 to june 2017, 95% of violations are monitoring and reporting violations and only 5% are treatment technique violations
+   - 28% of those violations began before 2013
+   - Over 50% of the M&R violations have to do with tap sampling
+   - 60% of treatment technique violations are related to OCCT recommendation 
+   - 29% of the treatment technique violations have to do with public education
+
+LCR Implemntation Tools:
+
+   - three prong to recommendations is technical manuals, webinars and then in person training
+   - see 2016 technical recommendation manual 
+
+
+### Lead and Copper Rule - EPA Update
+*Jeff Kempic*
+
+Any LCR updates would have to include the provisions from the WIIN Act. Current LCR is TT with actional level of 15 ppb for lead and 0.13 ppm for copper. Systes greater than 50k people are required to have implemented optimized OCCT. 
+
+Key challenges:
+
+   - complicated rule. 
+   - trying to control corrosivity of water through antiquated distribution and plumbing systems to consumer's tap
+   - only rule with sampling in the homes
+   - requires expertise at state and system level to identidy system specidic OCCT
+   - structure only compels pretective actions after public health threats have been identified
+   - limited focus on schools
+   
+Stakeholder consultations:
+
+   - NDWAC
+   - Science advisory board evaluaton of PLSLR
+   - Stakeholder meeting
+   - tribal consultation
+   - environmental justice
+   
+NDWAC recommendations:
+
+   - practive LSLR
+   - more robust puiblic education for lead 
+   - stregthen CCT
+   - modify monitoring - customer requested
+   - tailor water quality paramters to specific CCT
+   - Household action level - triggers a report to customer and health agancy for follow up
+   - separate copper requiremnts from lead
+   
+Key issues for LCR:
+
+   - appropriate pace of LSLR
+   - costs and benegits of LSLR for reducing lead exposure 
+   - how to provide full LSLR when system does not own the entire line, including potential change to definition of "control"
+   - how to address equity concerns and ability to pay for LSLR - potential for incentives using DWSRF
+   - whether to prohibit or limit PLSLR and how to address LSL distrubances
+   
+Improced OCCT:
+
+   - require systems > 50k to reevaluate OCCT and reoptimzie
+   - require all systems to implement CCT regardless of size
+   - broadening the categories of systems for which CCT is required
+   0 requiring all water systems to assume its DS cintains LSL until robust evaluation is done
+   - require re optimization of OCCT when AL is exceeded
+   
+Health-based benchmark:
+
+   - incorporating a health based benchmark to stregthen protection
+   - MCLG = 0 for lead
+   - NDWAC rec - househole action level
+   - EPA is defeloping models of relationship betweeen wateer lead levels and blood lead levels
+   
+Point of use filters:
+
+   - work in flint has demonstrated efficact od POU deviced is reducing lead
+   - POU for compliance with SDWA requires system or someone under contract to own control and maintain POUT units
+    - POU could be required where there has been a distubence of a LSL
+    
+Sampling Requirements:
+
+   - 2016 memo eliminated pre stagnation flushing
+   - also require aeroators to be left on
+   - what is appropriate sampling protocol 
+   - should customers be allowed to take samples
+   - should schools be included?
+   - can reel time monitoring toold be developed
+   
+Increased Transparency and Information sharing:
+
+   - Has to do with meeting WIIN act
+   - minimum timeframe for public notification
+   - increased public eduction
+   
+
+Public Education - LSL Sites
+ 
+   - requiring systems as part of targeted outreach to invite customers to have their water tested and participate in LSLR program
+   - requiring systems to provide public access for LSL inventories
+
+Health based benchmark:
+
+   - NDWAC recommend epa establish health base action level
+   - most tap sampling protocols are not designed to assess exposure
+   - models trying to determine lead in waters affect on blood lead levels
+   
+Lead modeling peer review:
+
+   - report released last month
+   
+Reductions of Lead in drinking water act
+
+   - proposed rule jan 2017
+   - proposal makes conforming changes to existing regs based on RLDWA revisions to SDWA
+   - proposals also includes options for labeling of products that meat lead free
+   - proposals also includes options for certification of products meeting the elad free requirements
+   - comment period ended May 2017
+   
+   
+### Pliot Monitoring of Water Quality in Building Water System
+*Tim Bartrand*
+
+Water that is safe to drink may not be safe to breathe. Important pathogens in building water systems are environmental organims not fecal pathogens. Water is not sterile. There are several open questions regarding these OPPP. PWS are not required to deliver water free of OPPP. 
+
+Nitrification in building water systems is not well studied but conditions are present in building water systems to make nitrificiation worse than in DS. Conditions for nitrification are present in BWS year round. There are are implications beyond the growth of AOB and NOB shuch as loss of residuals and metal release. 
+
+DBPs can form in building water systems. 
+
+Premise plumbing water quality degredation hat trick:
+
+   - loss of chlorine
+   - increase in oppurtunistic pathogens
+   - increase in DBPs
+   
+   
+Building wat er quality can be measure for verification and validation. verification is done to ensure that the system is operating as intended. validation is done to see if there are contaminants present.
+
+
+Parameters in BWS Pilot:
+
+   - Temp (POE, DT)
+   - TCl~2~ (POE, DT)
+   - Power (POE, DT)
+   - Turbidity (POE, DT)
+   - Cond (POE, DT)
+   - Nitrate and Ammonia  (POE, DT)
+   - DO  (POE, DT)
+   - UVT (POE
+   
+The challenge of distilled taps (DT):
+
+   - DTs are all on "twigs" of BWS (based on taxonomy of BWS - Trunks, branches, twigs)
+   - every twig is a dead end
+   - chicken and egg effect
+   
+      - want to montior wq in water in the twig
+      - twig does not have constant water flow
+      
+
+Data Capture and Management is critical
+
+Operation and Maintenance: 
+
+   - critical compnoent of monitoring effort
+   - early measurements subject to instrument problems
+   - after start-up, roughly 3-week schedule for instrument O&M
+   - critical component of O&M is constant data analysis to ensure performance
+   
+To monitor or not to monitor:
+
+   - in this building, the disinfectant lose between POE and DT is modest. 
+   - residula monitoring could provide more information of building wq
+   
+Temperature at POE followed normal seasonal trends, however, the temperature are the DT remained around 25 C for the entire time period
+
+
+Summary:
+   
+   - keys to effective BWS wq program is similar to DS OWQM
+   - select sensors to match needs
+   - recognize BWS realities
+   - not all buildings benefit form monitoring
+   
+Got Data, now what?
+
+   - monitoring for process control
+      
+      - maintain disinfectant residual drop between POE and DT within 80%
+      - metering to control water age
+      - temp monitoring (energy consumption and pathogen growth potential)
+      - control parameters for in building treatment (e.g., disinfectant boosting)
+      
+   - monitoring for event detection
+   
+      - onset of severe nitrification
+      - upset of building water system supply water
+      
+   - monitoring for compliance?
+   
+      - DBPs
+      - Building System POE residual
+      
+
+
+### Using Process Control Charts to Maintain Distribution Stability, Case Study
+*Rich Giani*
+
+case study one: Pembroke Pines, FL
+
+   - experienced extreme nitrification issue in far point in their system
+   - as soon as water left DS tank, the chlorine residual would immediately decay causing nitrification
+   
+
+what are process control charts:
+
+   - a statistival process control tool used to determine if a manufacturing or business process is in a state of control
+   - also called Shawhart charts
+
+process control charts in the DW industry
+
+   - abigal cantor - brought this method to the industru looking at water qualitt parameter variability at the entry point and in  portions of the distribution system. She usef it to investigate water quality issues and maintaing stability 
+   - dave cornwell uses this method a lot
+   
+   - rules (alert/flag when): 
+   
+      - data fall outside 3 sigma line
+      - 2 out of 3 successive points fall outside of 2 sigma units
+      - 4 out of 5 successive fall outside of 1 sigma unit
+      - 8 consecutive points above or below the average, respectively 
+      
+   - imprvement of charts:
+   
+      - excel spreadsheets (puke)
+      
+
+Case Study - Woodland, CA:
+
+   - Distributiin assessment revealed manganeese as main culprit of discolored water
+   - process control charts for Mn concentration
+
+
+Many Types of Charts:
+
+   - wheeler and chambers developed a bias control chart to set limits. Set the ranges based on n
+   - may be too sensitive depending on what you are analyzing
+  
+Setting your own range: 
+
+   - you can set your own range
+   - most applicable for water treatment stability leaving the plant
+   - woodland plant with a +/- 0.2 mg/L free chlorine residual 
+   - the more effective your process, the smalled your sigma values will be.
+   - that is good if you are manufacturing a product, but in drinking water, we have a little more freedom, so we can set your own ranges instead of using ranges
+   - if the standard (wheeler/chambers) chart was used, the sigma lines would be very tight and would create a lot more alerts, which most would be false alarms
+   
+Woodland DS site # 11:
+
+   - has issue at beginning but chlorine began to stabilize
+
+
+Ontario, OR:
+
+   - snake river - source
+   - can see many changes in wq
+   - conventional plant
+   - have issues with algae clogging filters
+   - revery to enhanced coagulation
+   - utilize three parameter algorithm 
+   - color vs turbidity has a strong linear relationship
+   - control charts were developed for that relationshio
+   - pH was also used for control charts
+   - pH control charts was only an upper level control chart
+   - alerts:
+   
+      - conbined factors greater than or equal to 50% generate an alaert
+      - plant reverts to enhanced coagulation at this point if filters begin clogging
+      
+      
+Future plans for monitoring at pembroke pines:
+
+   - collect total chlorine at each location (and possibly PO~4~) twice per month when collecting total coliform sammples
+
+Caviots:
+
+   - there are pitfalls with process control charts
+   - donts
+   
+      - don't use it on accumulating data
+      - don't ise a parameter that has an impact on another parameter
+      - don't use this for compliance purposes
+      
+   - do's
+   
+      - understand your control limits - each parameter will have different control limits depending on what you are doing. set them so that you are sure when proper actions should be taken
+      - do use control charts for process control and water quality investigation
+      
+      
+### Developing Fluorenscense sensors to monitor nitrification in the distribution system
+
+
+system wide measures are needed to control nitrification
+
+   - at WTP: 
+   
+      - remove disinfectant demand
+      - optimize monochloramine dosing
+      
+   - in storage tanks:
+   
+      - minimize dead zones and thermal stratification through mizing and cyccling
+      
+   - in pupes
+   
+     - minimize water age through looping and flushing
+     - boost the mono residual
+     
+    - through out this whole proxess monitoring is impoertant
+    
+Critical parameters include: total chlorine, nono, free ammonia, nitrite, nitrate, pH, and temp
+
+past nitrification issues have led to red water in dallas and total coliforms in houston. 
+
+Fluorescence-based methics may be applicable for early detection of nitrification. Fluorophores are classified based on their excitation/emission coordinated within EEM. Aromatic amino acids have been detected in samples from nitrifying bacteria samples. There are commercially available submersible sensors can collect real time data at one or more Ex/Em pairs. 
+
+
+    
+
+
+
