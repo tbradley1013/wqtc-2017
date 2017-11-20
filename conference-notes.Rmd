@@ -26,21 +26,21 @@ A new approach is to use direct water reuse where the waste water effluent is pi
 
 Water 3.0: 
 
-    - biological wastewater treatment
-    - filtration
-    - disinfection
+  - biological wastewater treatment
+  - filtration
+  - disinfection
 
 Water 4.0:
 
-    - biological wastewater treatment
-    - disinfection - engineered natural barriers
-    - ozonation
+  - biological wastewater treatment
+  - disinfection - engineered natural barriers
+  - ozonation
     
-        - activated carbon
-        - mambranes (UF/RO)
-        - advanced oxidation processess
-        - online monitoring
-        - source water control/protection
+      - activated carbon
+      - mambranes (UF/RO)
+      - advanced oxidation processess
+      - online monitoring
+      - source water control/protection
 
 
 There are people who argue that the water 4.0 approach is overkill and that that method is making it seem that systems that do not use that appraoch are not doing enough. However, in the case of public health, isn't it better to be safe than sorry? This approach may reduce the amount of the drinking water issues/controversies. It may be time to stop thinking that the safe drinking water act is doing enough to protect the public. It may be time to push the boundaries of what water treatment is possible. 
@@ -73,13 +73,13 @@ performed optimized treatment study in 1994 and received state permit in 1997. T
 
 Several programs to handle lead in drinking water. 
 
-  1. PWB;s LHRP: Treatment and monitoring
+  1. PWB's LHRP: Treatment and monitoring
     
     - pH adjustment to 8.2
     - monitoring at tap
     - water quality montoring in the system
     
-    PWB saw a significant drop in lead levels after implementing treatment. However, they exceeded the action level several times since then, including 2013, 2016, and 2017.
+      PWB saw a significant drop in lead levels after implementing treatment. However, they exceeded the action level several times since then, including 2013, 2016, and 2017.
     
   2. Lead in the Water Education and Testing
      
@@ -319,7 +319,7 @@ DBP Study formation:
        
       - organics:
        
-          -TOC and DOC
+          - TOC and DOC
           - YV254
           - 3d fluorscenecs eexcitations
         
@@ -565,6 +565,8 @@ Conclusions:
 ### Regulatory Horizon: National and State Perspectives (Panel Discussion)
 *Alan Roberson, Steve Via*
 
+**All of these responses by the presenters are my summary of their responses and are not word for word what was said.**
+
 **Q: How do you define a health advisory level and how do they factor into regulations**
 
 AR: They are exactly that advisory, however, recently they have become defacto standards. An issue with this is that these standards have not gone through the same rigorous vetting as MCL
@@ -741,7 +743,7 @@ Model Development:
     - residence time distribution calc methods:
     
        - plug-flow reator
-       - t10/$\tao$ PFR
+       - $\frac{t10}{\tau}$ PFR
        - tanks in series
        - reactor network - parallel TIS
        
@@ -922,7 +924,7 @@ Conclusions:
    - this allowed for identification of vulnerable sectors
    
 
-## TUE02
+## TUE02 - Innovative Solutions for Distribution System Issues
 
 ### UV Light Control of Nitrification in a Distribution Reservoir
 *Susan Teefy*
@@ -1405,8 +1407,103 @@ Reductions of Lead in drinking water act
    - proposals also includes options for labeling of products that meat lead free
    - proposals also includes options for certification of products meeting the elad free requirements
    - comment period ended May 2017
+
+
+### Using Process Control Charts to Maintain Distribution Stability, Case Study
+*Rich Giani*
+
+case study one: Pembroke Pines, FL
+
+   - experienced extreme nitrification issue in far point in their system
+   - as soon as water left DS tank, the chlorine residual would immediately decay causing nitrification
    
+
+what are process control charts:
+
+   - a statistival process control tool used to determine if a manufacturing or business process is in a state of control
+   - also called Shawhart charts
+
+process control charts in the DW industry
+
+   - abigal cantor - brought this method to the industru looking at water qualitt parameter variability at the entry point and in  portions of the distribution system. She usef it to investigate water quality issues and maintaing stability 
+   - dave cornwell uses this method a lot
    
+   - rules (alert/flag when): 
+   
+      - data fall outside 3 sigma line
+      - 2 out of 3 successive points fall outside of 2 sigma units
+      - 4 out of 5 successive fall outside of 1 sigma unit
+      - 8 consecutive points above or below the average, respectively 
+      
+   - imprvement of charts:
+   
+      - excel spreadsheets
+      
+
+Case Study - Woodland, CA:
+
+   - Distributiin assessment revealed manganeese as main culprit of discolored water
+   - process control charts for Mn concentration
+
+
+Many Types of Charts:
+
+   - wheeler and chambers developed a bias control chart to set limits. Set the ranges based on n
+   - may be too sensitive depending on what you are analyzing
+  
+Setting your own range: 
+
+   - you can set your own range
+   - most applicable for water treatment stability leaving the plant
+   - woodland plant with a +/- 0.2 mg/L free chlorine residual 
+   - the more effective your process, the smalled your sigma values will be.
+   - that is good if you are manufacturing a product, but in drinking water, we have a little more freedom, so we can set your own ranges instead of using ranges
+   - if the standard (wheeler/chambers) chart was used, the sigma lines would be very tight and would create a lot more alerts, which most would be false alarms
+   
+Woodland DS site # 11:
+
+   - has issue at beginning but chlorine began to stabilize
+
+
+Ontario, OR:
+
+   - snake river - source
+   - can see many changes in wq
+   - conventional plant
+   - have issues with algae clogging filters
+   - revery to enhanced coagulation
+   - utilize three parameter algorithm 
+   - color vs turbidity has a strong linear relationship
+   - control charts were developed for that relationshio
+   - pH was also used for control charts
+   - pH control charts was only an upper level control chart
+   - alerts:
+   
+      - conbined factors greater than or equal to 50% generate an alaert
+      - plant reverts to enhanced coagulation at this point if filters begin clogging
+      
+      
+Future plans for monitoring at pembroke pines:
+
+   - collect total chlorine at each location (and possibly PO~4~) twice per month when collecting total coliform sammples
+
+Caviots:
+
+   - there are pitfalls with process control charts
+   - donts
+   
+      - don't use it on accumulating data
+      - don't ise a parameter that has an impact on another parameter
+      - don't use this for compliance purposes
+      
+   - do's
+   
+      - understand your control limits - each parameter will have different control limits depending on what you are doing. set them so that you are sure when proper actions should be taken
+      - do use control charts for process control and water quality investigation
+      
+
+## WED06 - Online Monitoring: Source to Tap 
+
 ### Pliot Monitoring of Water Quality in Building Water System
 *Tim Bartrand*
 
@@ -1490,103 +1587,10 @@ Got Data, now what?
       - DBPs
       - Building System POE residual
       
-
-
-### Using Process Control Charts to Maintain Distribution Stability, Case Study
-*Rich Giani*
-
-case study one: Pembroke Pines, FL
-
-   - experienced extreme nitrification issue in far point in their system
-   - as soon as water left DS tank, the chlorine residual would immediately decay causing nitrification
-   
-
-what are process control charts:
-
-   - a statistival process control tool used to determine if a manufacturing or business process is in a state of control
-   - also called Shawhart charts
-
-process control charts in the DW industry
-
-   - abigal cantor - brought this method to the industru looking at water qualitt parameter variability at the entry point and in  portions of the distribution system. She usef it to investigate water quality issues and maintaing stability 
-   - dave cornwell uses this method a lot
-   
-   - rules (alert/flag when): 
-   
-      - data fall outside 3 sigma line
-      - 2 out of 3 successive points fall outside of 2 sigma units
-      - 4 out of 5 successive fall outside of 1 sigma unit
-      - 8 consecutive points above or below the average, respectively 
-      
-   - imprvement of charts:
-   
-      - excel spreadsheets (puke)
-      
-
-Case Study - Woodland, CA:
-
-   - Distributiin assessment revealed manganeese as main culprit of discolored water
-   - process control charts for Mn concentration
-
-
-Many Types of Charts:
-
-   - wheeler and chambers developed a bias control chart to set limits. Set the ranges based on n
-   - may be too sensitive depending on what you are analyzing
-  
-Setting your own range: 
-
-   - you can set your own range
-   - most applicable for water treatment stability leaving the plant
-   - woodland plant with a +/- 0.2 mg/L free chlorine residual 
-   - the more effective your process, the smalled your sigma values will be.
-   - that is good if you are manufacturing a product, but in drinking water, we have a little more freedom, so we can set your own ranges instead of using ranges
-   - if the standard (wheeler/chambers) chart was used, the sigma lines would be very tight and would create a lot more alerts, which most would be false alarms
-   
-Woodland DS site # 11:
-
-   - has issue at beginning but chlorine began to stabilize
-
-
-Ontario, OR:
-
-   - snake river - source
-   - can see many changes in wq
-   - conventional plant
-   - have issues with algae clogging filters
-   - revery to enhanced coagulation
-   - utilize three parameter algorithm 
-   - color vs turbidity has a strong linear relationship
-   - control charts were developed for that relationshio
-   - pH was also used for control charts
-   - pH control charts was only an upper level control chart
-   - alerts:
-   
-      - conbined factors greater than or equal to 50% generate an alaert
-      - plant reverts to enhanced coagulation at this point if filters begin clogging
-      
-      
-Future plans for monitoring at pembroke pines:
-
-   - collect total chlorine at each location (and possibly PO~4~) twice per month when collecting total coliform sammples
-
-Caviots:
-
-   - there are pitfalls with process control charts
-   - donts
-   
-      - don't use it on accumulating data
-      - don't ise a parameter that has an impact on another parameter
-      - don't use this for compliance purposes
-      
-   - do's
-   
-      - understand your control limits - each parameter will have different control limits depending on what you are doing. set them so that you are sure when proper actions should be taken
-      - do use control charts for process control and water quality investigation
       
       
 ### Developing Fluorenscense sensors to monitor nitrification in the distribution system
-
+*Ashley Pifer Garver*
 
 system wide measures are needed to control nitrification
 
