@@ -1,8 +1,12 @@
 ---
 title: "WQTC 2017 Conference Notes"
-author: Tyler Bradley
+author: "Tyler Bradley"
 date: "2017-11-13 to 2017-11-15"
-output: html_notebook
+output:
+  pdf_document: 
+    toc: true
+    toc_depth: 3
+  html_notebook: default
 ---
 
 # Day 1 - Monday, 2017-11-13
